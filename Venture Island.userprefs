@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/lazer.cs">
+    <Files>
+      <File FileName="Assets/missleScript.cs" Line="44" Column="2" />
+      <File FileName="../../Downloads/Bumble Brigrade/Assets/DeathScript.cs" Line="52" Column="4" />
+      <File FileName="Assets/lazerbeam.cs" Line="25" Column="73" />
+      <File FileName="Assets/lazer.cs" Line="41" Column="2" />
+      <File FileName="../../Downloads/Bumble Brigrade/Assets/bumblespawn.cs" Line="6" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
